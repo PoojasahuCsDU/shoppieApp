@@ -1,1 +1,1 @@
-login-page for shoppie
+login-page for shoppie application.
