@@ -1,2 +1,1 @@
-# shopiee-dk
-finding product based on near by location.
+login-page for shoppie application.
